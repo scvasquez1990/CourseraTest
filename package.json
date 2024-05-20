@@ -1,0 +1,20 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "git test project",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\\"
+  },
+  "author": "Sergio Vasquez",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
